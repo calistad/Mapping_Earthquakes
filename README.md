@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
+This project is visually showing the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
 ## Result
 
@@ -16,10 +16,10 @@ This project is to visually show the differences between the magnitudes of earth
 
 ### Link to Interactive Maps webpage
 
-https://heyheyelsie.github.io/Mapping_Earthquakes/
+https://heyheyelsie.github.io/Earthquake_map/
 
 ## Summary
 
-We will use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. 
+We would use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. 
 
-Additionally, we will use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
+Additionally, we would use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.

@@ -16,7 +16,7 @@ This project is visually showing the differences between the magnitudes of earth
 
 ### Link to Interactive Maps webpage
 
-https://heyheyelsie.github.io/Earthquake_map/
+https://calistad.github.io/Mapping_Earthquake_temp/
 
 ## Summary
 
